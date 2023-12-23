@@ -1,5 +1,3 @@
-Certainly! Here's an emoji-enhanced version of your description:
-
 👩‍💻 **Professional Identification** 👨‍💻  
 I'm a skilled Software Engineer with a Bachelor's in Computer Science. I specialize in Flutter, Front-end tech, ASP.Net core, and Databases. 💻
 
