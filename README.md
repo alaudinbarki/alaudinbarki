@@ -1,15 +1,16 @@
 👩‍💻 **Professional Identification** 👨‍💻  
-I'm a skilled Software Engineer with a Bachelor's in Computer Science. I specialize in Flutter, Front-end tech, ASP.Net core, and Databases. 💻
+I'm a skilled software engineer with a bachelor's degree in computer science. I specialize in Flutter, React Native, Kotlin(KMP), and SwiftUI. 💻
 
 **Highlighted Tech Skills** 🛠️  
-- Mobile app development (Flutter) 📱
-- Familiarity with ASP. Net Core, Bootstrap, and JavaScript for web development 💻
-- Proficient in Python, C#, Dart 🐍
+- Mobile app development (Flutter, React Native, Kotlin, and Swift UI) 📱
+- Familiarity with ASP. Net Core. 💻
+- Proficient in Dart, Kotlin, Swift, and C#,  🐍
 - Database management with Firebase, SQL, MySQL 🗃️
-- State-Management in Flutter like Getx, Provider, and Riverpod for managing app functions 🔄
+- State-Management in Flutter like Getx, Provider, and Bloc for managing app functions 🔄
 - Coding structures like MVC, MVVM, and strong OOP knowledge 🧱
 - API integration for smooth system connections 🌐
 - Knowledge of Solid-Design principles and Clean Architecture 🏗️
+- Experience in testing(Unit, Widget, Integration and Bloc)
 
 **Highlighted Soft Skills** 🧠  
 - Adaptability: Swiftly mastering diverse coding languages and frameworks to adapt to evolving project requirements. 🔄
