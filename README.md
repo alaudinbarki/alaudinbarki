@@ -27,6 +27,8 @@ I'm a skilled software engineer with a bachelor's degree in computer science. I 
 
 **Career Goals** 🎯  
 I aim to become a lead developer, leveraging my diverse tech skills to create innovative solutions in tech industries. I seek to contribute to cutting-edge projects that push boundaries in tech industries and aim to mentor aspiring developers. 🚀
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alaudinbarki)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 alaudinbarki/alaudinbarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
