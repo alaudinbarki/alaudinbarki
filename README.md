@@ -1,6 +1,6 @@
 
 # 👩‍💻 **Professional Identification** 👨‍💻  
-I'm a skilled software engineer with a **Bachelor's degree in Computer Science**. I specialize in **Flutter**, **React Native**, **Kotlin (KMP)**, and **SwiftUI**. 💻
+I'm a skilled software engineer with a **Bachelor's degree in Computer Science**. I specialize in **Flutter**, **React Native**, **Kotlin (KMP)**, **SwiftUI** , and **.Net**,. 💻
 
 ---
 
